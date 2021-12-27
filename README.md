@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Up-and-coming playwright Louise, following the near-success in funding her earlier play FEVER via Kickstarter, approached "the team" for further data analysis. Curious into how similar campaigns fared in relation to launch dates and funding goals, "the team" analysed Kickstarter data in Excel to provide Louise with a written report and visualization to help her launch her next project.
+Up-and-coming playwright Louise, following the near-success in funding her earlier play FEVER via Kickstarter, approached "the team" for further data analysis. Curious into how similar campaigns fared in relation to launch dates and funding goals, "the team" analyzed Kickstarter data in Excel to provide Louise with a written report and visualization to help her launch her next project.
 
 ### Purpose
 
@@ -14,13 +14,13 @@ To utilize Kickstarter data imported into Excel for filtering, charting and grap
 
 ![Chart01](/resources/Theater_Outcomes_vs_Launch.png)
 
-In analysing Theater(Plays) Outcomes Based on Launch Date, it is fairly apparent that initializing funding in the May-June corridor yields a 2:1 ratio in successfully meeting Kickstarter goals vs failing. Following this "peak", there is a steady decline until year's end with December approaching a 1:1 ratio.
+In analyzing Theater(Plays) Outcomes Based on Launch Date, it is fairly apparent that initializing funding in the May-June corridor yields a 2:1 ratio in successfully meeting Kickstarter goals vs failing. Following this "peak", there is a steady decline until year's end with December approaching a 1:1 ratio.
 
 ### Analysis of Outcomes Based on Goals
 
 ![Chart02](/resources/Outcomes_vs_Goals.png)
 
-Analysis of Outcome Based on Funding Goals shows a near 80% success rate of meeting funding for small projects that request less than $1000. Backing requests beyond this value yield a gradual decline in success, with $15,000 to $19,999 being a intersection point. Successful outcome percentages slide further downward below 50% beyond this intersection at higher Goal values; however, inflection occurs in the $30,000 to $34,999 range leading to a platuea of near 66% success from $35,000 to $49,000. Higher goals beyond this range show a drastic drop into a minimal to zero range.
+Analysis of Outcome Based on Funding Goals shows a near 80% success rate of meeting funding for small projects that request less than $1000. Backing requests beyond this value yield a gradual decline in success, with $15,000 to $19,999 being an intersection point. Successful outcome percentages slide further downward below 50% beyond this intersection at higher Goal values; however, inflection occurs in the $30,000 to $34,999 range leading to a plateau of near 66% success from $35,000 to $49,000. Higher goals beyond this range show a drastic drop into a minimal to zero range.
 
 ### Challenges and Difficulties Encountered
 
@@ -36,11 +36,11 @@ A challenge was encountered in grouping dates for Analysis of Outcomes Based on 
 
 - What can you conclude about the Outcomes based on Goals?
 
-1.) Low goals under $1000 yielded the highest success ratio, implying a bevy of theater patrons who appreciate small budget productions. However a second "sweet-spot" of success appears in the $35,000-$44,999 range, giving credence to more robust plays, but definitly not "over-the-top" productions where positive outcomes drop to near zero.
+1.) Low goals under $1000 yielded the highest success ratio, implying a bevy of theater patrons who appreciate small budget productions. However a second "sweet-spot" of success appears in the $35,000-$44,999 range, giving credence to more robust plays, but definitely not "over-the-top" productions where positive outcomes drop to near zero.
 
 - What are some limitations of this dataset?
 
-1.) Number of page views per project might give a glimps into how "well" a project is being promoted or marketed.
+1.) Number of page views per project might give a glimpse into how "well" a project is being promoted or marketed.
 
 - What are some other possible tables and/or graphs that we could create?
 
